@@ -1,0 +1,303 @@
+1
+10
+100
+1000
+110
+120
+140
+150
+160
+180
+2
+20
+200
+250
+3
+30
+300
+350
+40
+400
+450
+50
+500
+60
+600
+7
+70
+700
+80
+800
+90
+900
+acute
+again
+and
+at
+bad bump
+bad camber
+barrels
+be brave
+before
+big
+big cut
+big jump
+blind
+brake
+bridge
+bump
+bumpy
+bush
+callout251
+camber
+caution
+chicane
+continues
+continues overcrest
+crest
+cut
+cut thru
+deceptive
+deep ruts
+defi dont cut
+dip
+directly
+ditch in
+ditch out
+done
+dont cut early
+dont cut late
+dontcut
+donut left
+donut right
+double caution
+double jumps
+downhill
+e 1 left minus tightens and 1 right minus opens
+e 1 right minus long into 1 left minus half long
+e 1 right minus short
+e 2 left into square right plus
+e 2 right 2 left
+e 2 right 2 left 5 right
+e 2 right 4 left
+e 3 left 4 right
+e 3 r and leftish into care 3 right extra long tightens square right
+e 3 right 4 left
+e 3 right 6 left
+e 4 right 3 left
+e 4 right long 2 left
+e 4 right tightens 2 immediate 5 left
+e 5 left 4 right
+e 5 left long tightens late four
+e 5 right 2 left
+e 5 right immediate 1 left minus opens
+e 5 right into 2 left plus
+e 5 right minus half long tightens bad into 6 left
+e 6 left long into caution
+e 6 left long tightens early
+e 6 right 4 left long
+e 6 right 5 left long
+e 6 right into 1 right tightens into twisty
+e 6 right long be brave
+e 6 right onto snaky
+e 6 right long tightens slowing into square left plus
+e brake over 6 right
+e caution 3 left immediate 1 right tightens late
+e caution 5 right minus tightens immediate 4 left
+e caution bump 5 right into 1 left minus
+e caution hard brake over rightish
+e caution hard brake over rightish and twisty
+e deceptive 1 right tightens square
+e deceptive 3 right half long tightens late 1
+e deceptive rightish 3 left tightens 3 right long caution slow
+e double caution slowing square left into square right minus
+e hairpin left tightens opens four
+e hairpin left wideout and 3 left
+e hairpin right 20 2 right maybe 4 left
+e hairpin right opens two
+e keep right over launcher
+e launcher
+e launcher square left
+e onto snaky
+e slow 5 right tightens 2
+e square left 2 right 2 left
+e square left half long into square right plus half long
+e square left square right
+e square right plus tightens
+e sudden square left into 1 right minus long
+early
+entry
+exit
+fence
+fence in
+fence out
+finish
+five left
+five right
+flat left
+flat right
+flatout
+for
+four left
+four right
+gate
+go round
+go wide
+gostraight
+hairpinleft
+hairpinright
+half long
+hard brake
+hole
+house
+icy
+immediate
+in
+inside
+into
+jump
+jump maybe
+junction
+keep in
+keep left
+keep middle
+keep out
+keep right
+late
+lateish
+left around
+left entry
+left entry chicane
+left into
+left over
+left right
+leftish
+log in
+log out
+logs
+long
+marshalls
+maybe
+minus
+narrow
+narrow bridge
+narrow gate
+narrows
+neat
+next lap
+on
+on entry
+on exit
+one left
+one right
+onto
+onto bridge
+onto gravel
+onto ice
+onto narrow bridge
+onto snow
+onto straight
+onto tarmac
+opens
+opens long
+opens overcrest
+opens tightens
+outside
+over
+over big jump
+over bridge
+over jump
+over small crest
+over small jump
+overcrest
+past junction
+plus
+post
+puddle
+right around
+right entry
+right entry chicane
+right into
+right left
+right over
+rightish
+road
+rock
+rock in
+rock out
+round
+roundabout
+rut
+ruts
+sharp
+short
+sign
+six left
+six right
+slippy
+slow
+slowing
+small
+small crest
+small cut
+small jump
+spectators
+square left
+square right
+start1
+start2
+start3
+steep climb
+steep drop
+stop
+sudden
+take exit
+then
+three left
+three right
+through
+through dip
+through gate
+through narrow gate
+thru water
+tight
+tightens
+tightens 1
+tightens 2
+tightens 3
+tightens 4
+tightens 5
+tightens 6
+tightens hp
+tightens late
+tightens opens
+tightens overcrest
+tightens square
+tightensbad
+to 1
+to 2
+to 3
+to 4
+to 5
+to 6
+to finish
+to hairpin
+to square
+tree
+tree in
+tree out
+triple caution
+tunnel
+twisty
+two left
+two right
+tyers
+unseen
+untitled
+uphill
+very long
+wall
+water
+wide
+widens
+wideout

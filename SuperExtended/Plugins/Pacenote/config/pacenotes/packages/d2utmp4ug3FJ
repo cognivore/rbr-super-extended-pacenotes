@@ -1,0 +1,9 @@
+;
+; File:         Descriptive-hu.ini
+; Version:     0.1
+; Date:         2020-06-19
+;
+
+[CATEGORY::CORNERS]
+file=corners\Descriptive-hu.ini
+
